@@ -10,13 +10,13 @@ permalink: /
 
 In the fast-evolving digital landscape, physical paper cards are rapidly becoming obsolete. Professionals, creators, and enterprise teams are transitioning toward **Digital Business Card SaaS** platforms that allow real-time information sharing, dynamic QR code updates, and frictionless lead generation.
 
-Whether you are launching a product like [CardForge SaaS: Digital Business Card Builder](https://github.com/) or crafting short, high-converting descriptions using tools like [short_product_description.md](https://gist.github.com/), understanding the intersection of product architecture and copywriting is critical.
+Whether you are launching a product like [CardForge SaaS: Digital Business Card Builder](https://github.com/sellgoo73-dot/CardForge-SaaS) or crafting short, high-converting descriptions using tools like [short_product_description.md](https://gist.github.com/), understanding the intersection of product architecture and copywriting is critical.
 
 ---
 
 ## Featured Resources & References
 
-* **Primary Product Builder:** [CardForge SaaS: Digital Business Card Builder](https://github.com/)
+* **Primary Product Builder:** [CardForge SaaS: Digital Business Card Builder](https://github.com/sellgoo73-dot/CardForge-SaaS)
 * **Gist Description Generator:** [short_product_description.md on GitHub](https://gist.github.com/)
 
 ---
@@ -50,11 +50,18 @@ Building an enterprise-ready **Digital Business Card SaaS** requires a scalable 
 
 A great digital product needs exceptional copywriting. When listing turnkey software or SaaS source code on marketplaces, short and impactful Markdown descriptions increase conversion rates significantly.
 
+### The AIDA Copywriting Framework for Software Products:
+
+1. **Attention:** Lead with a bold hook highlighting the core problem (e.g., "Stop losing leads with paper business cards").
+2. **Interest:** Present key metrics, supported tech stacks, and white-label capabilities.
+3. **Desire:** Show bulleted feature highlights and easy deployment workflows.
+4. **Action:** End with a strong Call-To-Action (CTA) encouraging immediate purchase or demo testing.
+
 ---
 
 ## 4. Short Product Description Template for GitHub Gists & Marketplaces
 
-When deploying micro-content or social posts, use this structured Markdown layout:
+When deploying micro-content or social posts, use this structured Markdown layout based on our [short_product_description.md](https://gist.github.com/) template:
 
 ```markdown
 # CardForge SaaS - Digital Business Card Builder
@@ -72,4 +79,4 @@ Launch your own lucrative white-label digital business card platform in minutes!
 - **Backend/DB:** Supabase / Node.js
 - **Deployment:** Vercel / Netlify / Docker ready
 
-[👉 View Live Demo](https://github.com/) | [🛒 Purchase Source Code](https://github.com/)
+[👉 View Live Demo](https://github.com/sellgoo73-dot/CardForge-SaaS) | [🛒 Purchase Source Code](https://github.com/sellgoo73-dot/CardForge-SaaS)
