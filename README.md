@@ -10,14 +10,14 @@ permalink: /
 
 In the fast-evolving digital landscape, physical paper cards are rapidly becoming obsolete. Professionals, creators, and enterprise teams are transitioning toward **Digital Business Card SaaS** platforms that allow real-time information sharing, dynamic QR code updates, and frictionless lead generation.
 
-Whether you are launching a product like [CardForge SaaS: Digital Business Card Builder](https://github.com/sellgoo73-dot/CardForge-SaaS) or crafting short, high-converting descriptions using tools like [short_product_description.md](https://gist.github.com/), understanding the intersection of product architecture and copywriting is critical.
+Whether you are launching a product like [CardForge SaaS: Digital Business Card Builder](https://whitelabelsaas.gumroad.com/l/bcgwyj) or crafting short, high-converting descriptions using tools like [short_product_description.md](https://whitelabelsaas.gumroad.com/l/bcgwyj), understanding the intersection of product architecture and copywriting is critical.
 
 ---
 
 ## Featured Resources & References
 
-* **Primary Product Builder:** [CardForge SaaS: Digital Business Card Builder](https://github.com/sellgoo73-dot/CardForge-SaaS)
-* **Gist Description Generator:** [short_product_description.md on GitHub](https://gist.github.com/)
+* **Primary Product Builder:** [CardForge SaaS: Digital Business Card Builder](https://whitelabelsaas.gumroad.com/l/bcgwyj)
+* **Gist Description Generator:** [short_product_description.md on GitHub](https://whitelabelsaas.gumroad.com/l/bcgwyj)
 
 ---
 
@@ -61,7 +61,7 @@ A great digital product needs exceptional copywriting. When listing turnkey soft
 
 ## 4. Short Product Description Template for GitHub Gists & Marketplaces
 
-When deploying micro-content or social posts, use this structured Markdown layout based on our [short_product_description.md](https://gist.github.com/) template:
+When deploying micro-content or social posts, use this structured Markdown layout based on our [short_product_description.md](https://whitelabelsaas.gumroad.com/l/bcgwyj) template:
 
 ```markdown
 # CardForge SaaS - Digital Business Card Builder
@@ -79,4 +79,4 @@ Launch your own lucrative white-label digital business card platform in minutes!
 - **Backend/DB:** Supabase / Node.js
 - **Deployment:** Vercel / Netlify / Docker ready
 
-[👉 View Live Demo](https://github.com/sellgoo73-dot/CardForge-SaaS) | [🛒 Purchase Source Code](https://github.com/sellgoo73-dot/CardForge-SaaS)
+[👉 View Live Demo](https://whitelabelsaas.gumroad.com/l/bcgwyj) | [🛒 Purchase Source Code](https://whitelabelsaas.gumroad.com/l/bcgwyj)
